@@ -1,0 +1,52 @@
+## .NET Core
+bin/
+obj/
+/packages/
+*.user
+*.userosscache
+*.suo
+.vs/
+.vscode/
+*.userprefs
+*.dbmdl
+*.jfm
+
+## Logs
+logs/
+*.log
+
+## Environment Variables
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+## Database
+*.db
+*.db-shm
+*.db-wal
+
+## IDE
+.idea/
+*.swp
+*.swo
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## Visual Studio for Mac
+.vscode/
+.history/
